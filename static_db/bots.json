@@ -1,0 +1,37 @@
+{
+  "bot_types": [
+    {
+      "id": 1,
+      "name": "translator",
+      "bots": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "ifttt",
+      "bots": [4]
+    },
+    {
+      "id": 3,
+      "name": "orion_demo",
+      "bots": [3]
+    }
+  ],
+  "bots": [
+    {
+      "id": 1,
+      "name": "Fake Translator Bot - Spanish"
+    },
+    {
+      "id": 2,
+      "name": "Fake Translator Bot - French"
+    },
+    {
+      "id": 3,
+      "name": "Fake Demo Bot"
+    },
+    {
+      "id": 4,
+      "name": "Fake IFTTT Bot"
+    }
+  ]
+}

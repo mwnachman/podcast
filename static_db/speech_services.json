@@ -1,0 +1,96 @@
+{
+  "speech_services": [
+    {
+      "id": 1,
+      "name": "Fake Azure",
+      "keys": [
+        {
+          "bot_type_id": 1,
+          "speech_service_key_id": 1
+        },
+        {
+          "bot_type_id": 2,
+          "speech_service_key_id": 2
+        },
+        {
+          "bot_type_id": 3,
+          "speech_service_key_id": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fake Watson",
+      "keys": [
+        {
+          "bot_type_id": 1,
+          "speech_service_key_id": 4
+        },
+        {
+          "bot_type_id": 2,
+          "speech_service_key_id": 5
+        },
+        {
+          "bot_type_id": 3,
+          "speech_service_key_id": 6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fake Other Service",
+      "keys": [
+        {
+          "bot_type_id": 1,
+          "speech_service_key_id": 7
+        },
+        {
+          "bot_type_id": 2,
+          "speech_service_key_id": 8
+        },
+        {
+          "bot_type_id": 3,
+          "speech_service_key_id": 9
+        }
+      ]
+    }
+  ],
+  "speech_service_keys": [
+    {
+      "id": 1,
+      "key": "fake-azure-key-hash-1-translator"
+    },
+    {
+      "id": 2,
+      "key": "fake-azure-key-hash-2-ifttt"
+    },
+    {
+      "id": 3,
+      "key": "fake-azure-key-hash-3-demo"
+    },
+    {
+      "id": 4,
+      "key": "fake-watson-key-hash-4-translator"
+    },
+    {
+      "id": 5,
+      "key": "fake-watson-key-hash-5-ifttt"
+    },
+    {
+      "id": 6,
+      "key": "fake-watson-key-hash-6-demo"
+    },
+    {
+      "id": 7,
+      "key": "fake-other-svc-key-hash-7-translator"
+    },
+    {
+      "id": 8,
+      "key": "fake-other-svc-key-hash-8-ifttt"
+    },
+    {
+      "id": 9,
+      "key": "fake-other-svc-key-hash-9-demo"
+    }
+  ]
+}

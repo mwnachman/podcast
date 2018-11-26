@@ -1,0 +1,20 @@
+{
+  "superusers": [
+    {
+      "name": "Jim Chambers",
+      "id": "0a08b85600bf408cb1de6f915cf8e6c3"
+    },
+    {
+      "name": "Eric Eisenberg",
+      "id": "0138081333d044828c7e6086043b6753"
+    },
+    {
+      "name": "Darren Lee",
+      "id": "60eaa4e53c8f4dcaad79946bb9a06add"
+    },
+    {
+      "name": "Meredith Latasa",
+      "id": "314183238b62454989c82acc5892f1a2"
+    }
+  ]
+}
